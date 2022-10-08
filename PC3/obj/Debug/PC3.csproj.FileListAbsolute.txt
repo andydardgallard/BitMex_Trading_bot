@@ -1,0 +1,11 @@
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\bin\Debug\PC3.exe.config
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\bin\Debug\PC3.exe
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\bin\Debug\PC3.pdb
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.csprojResolveAssemblyReference.cache
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.Form1.resources
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.Properties.Resources.resources
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.csproj.GenerateResource.Cache
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.exe
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\obj\Debug\PC3.pdb
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\bin\Debug\Newtonsoft.Json.dll
+D:\VM\Common\МастерГруппа\VisualStudio-Projects\PC3\PC3\bin\Debug\Newtonsoft.Json.xml
